@@ -1,0 +1,47 @@
+  body{
+
+background-image: "background.jpg";
+
+  }
+  .heading
+  {
+    font-size: 25px;
+    width: 100%;
+    margin: 0px;
+    box-shadow:5px 5px 5px grey;
+  }
+  .heading_div
+  {
+    background: white ; 
+    border-radius: 20px; 
+    color: black;
+    box-shadow:5px 5px 5px grey;
+  }
+  .heading_div2
+  {
+    font-size: 18px ;
+  }
+  .result_para_tag
+  {
+    box-shadow:5px 5px 5px grey;
+    font-size: 20px;
+  }
+  .copy_right_footer{
+
+background-color: gray;
+bottom: 0;
+position: fixed;
+width: 100%;
+
+
+  }
+  
+  canvas{
+
+background-color: whitesmoke;
+border-radius: 5px;
+border-style: dotted;
+box-shadow: 5px 5px 5px rgb(152, 214, 249);
+margin-top: 100px;
+
+  }
